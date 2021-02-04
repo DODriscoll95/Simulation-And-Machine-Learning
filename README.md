@@ -2,7 +2,7 @@
 
 Simulation and Machine Learning project as part of MSc Mathematical Finance at University of Warwick
 
-This is a project I completed as part of my MSc in Mathematical Finance for the Simulation and Machine Learning for Finance Class.
+This is a project I completed as part of my MSc in Mathematical Finance for the Simulation and Machine Learning for Finance class.
 
 The first half of the project involved the pricing different types of options using Monte Carlo methods along with some variance reduction techniques.
 
